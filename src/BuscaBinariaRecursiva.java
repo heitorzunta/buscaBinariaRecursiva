@@ -1,8 +1,8 @@
-public class buscaBinariaRecursiva {
+public class BuscaBinariaRecursiva {
 
     protected int[] vetor;
 
-    public buscaBinariaRecursiva(int[] vetor){
+    public BuscaBinariaRecursiva(int[] vetor){
         this.vetor = vetor;
     }
 
